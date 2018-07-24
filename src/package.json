@@ -1,0 +1,11 @@
+{
+  "name": "NWJSTemplate2level",
+  "description": "Template (2 level) for making NWJS apps.",
+  "version": "0.0.1",
+  "main": "html/main.html",
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  }
+}

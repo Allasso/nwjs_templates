@@ -1,0 +1,14 @@
+{
+  "name": "NWJSTemplate2level",
+  "description": "Template (2 level) for making NWJS apps.",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nw src",
+    "dev": "nw src",
+    "prod": "nwbuild --platforms osx64 --buildDir dist/ src"
+  },
+  "devDependencies": {
+    "nw": "^0.30.2",
+    "nw-builder": "^3.1.2"
+  }
+}
