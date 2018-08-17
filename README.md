@@ -86,3 +86,7 @@ In addition it contains the manifest file for running your app:
 ```
 
 The src/package.json file also requires "name" and "version".  It also requires a "main" entry, which will be the path to the file that should be executed when the app starts.  The path is relative to the src directory.  Additional data may be provided for initializing the app.  You may find documentation on that [here](http://docs.nwjs.io/en/latest/References/Manifest%20Format/).  Note that the documentation refers to a single-tiered implementation where the manifests for installing and running the app are combined in a single package.json file.
+
+...
+
+Thanks to ![BrowserStack](http://kevinallasso.org/responsive/images/browserstack-logo-150x32.png) for their support of my open-source projects.
